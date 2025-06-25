@@ -41,6 +41,21 @@ import background from '../assets/background.svg';
 	</a>
 </div>
 
+<header>
+  <nav>
+    <img src={astroLogo.src} alt="FScrobble Logo" width="50" />
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<footer>
+  <p>&copy; 2025 FScrobble. All rights reserved.</p>
+</footer>
+
 <style>
 	#background {
 		position: fixed;
@@ -207,4 +222,31 @@ import background from '../assets/background.svg';
 			line-height: 1.5;
 		}
 	}
+
+	header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+
+  nav ul li a {
+    text-decoration: none;
+    color: var(--foreground);
+  }
+
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: var(--background);
+    color: var(--foreground);
+  }
 </style>
