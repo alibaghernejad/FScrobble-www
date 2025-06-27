@@ -2,7 +2,7 @@
 The Home page for [**FScrobble**](https://github.com/alibaghernejad/FScrobble). An efficent **Music Scrobbling Service**, written in F# and .NET  
 If you are looking for detailed instructions on how to use this service, please refer to the documentation or the guides provided in the repository.  
 
-![FScrobble-Banner](/src/assets/fscrobble-v0.0.2-banner.png) 
+![FScrobble-Banner](/src/assets/fscrobble-v0.0.2-banner.png)    
 You can find the source code for FScrobble on GitHub: [FScrobble Repository](https://github.com/alibaghernejad/FScrobble).
 
 
@@ -15,9 +15,9 @@ git clone https://github.com/alibaghernejad/FScrobble-www
 ```
 ___
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://asset s.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/alibaghernejad/FScrobble-www)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/alibaghernejad/FScrobble-www)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/alibaghernejad/FScrobble-www)
 
 
 ## 🚀 Project Structure
