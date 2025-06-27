@@ -1,21 +1,23 @@
-# FScrobble-www: The Home page for FScrobble
-FScrobble is a efficent **Music Scrobbling Service**, written in F# and .NET
-If you are looking for the details, they help you  ofto use this service, please refere to the 
+# FScrobble-www: 
+The Home page for FScrobble. **FScrobble** is a efficent **Music Scrobbling Service**, written in F# and .NET
+If you are looking for detailed instructions on how to use this service, please refer to the documentation or the guides provided in the repository.  
+You can find the source code for **FScrobble** on GitHub: [FScrobble Repository](https://github.com/alibaghernejad/FScrobble.
 
-This project uses 
-Feel free to use the project for your prsonal landings and products by clonig the repo:
+
+![FScrobble-Banner](/src/assets/fscrobble-v0.0.2-banner.png)
+## Usage Instructions
+
+This project uses **Astro** for building fast and modern websites. Feel free to use the project for your personal landings and products by cloning the repository:
 
 ```sh
-git clone https://github.com/alibaghernejad/FScrobble-www optional-new-name
+git clone https://github.com/alibaghernejad/FScrobble-www 
 ```
+___
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://asset s.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-    
-> 🧑‍🚀 **For Your Music Listening Habits.**. Keep Listening!
 
-![just-the-basics](/src/assets/fscrobble-v0.0.2-banner.png)
 
 ## 🚀 Project Structure
 
@@ -50,4 +52,8 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+
+🎵 **For Your Music Listening Habits.** Keep Listening!
