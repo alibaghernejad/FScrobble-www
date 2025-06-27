@@ -566,7 +566,7 @@ video::cue {
   align-items: center;
   display: flex;
   flex-direction: column;
-  gap: 1.25em;
+  gap: 0.75em;
   margin-inline: auto;
   margin-top: 4em;
   text-align: center;
