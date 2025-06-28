@@ -6,7 +6,45 @@ If you are looking for detailed instructions on how to use this service, please 
 You can find the source code for FScrobble on GitHub: [FScrobble Repository](https://github.com/alibaghernejad/FScrobble).
 
 
-## Usage Instructions
+## 🎯 Usage Instructions
+
+To use this service, follow these steps:
+
+1. **Clone the Repository**  
+    ```sh
+    git clone https://github.com/alibaghernejad/FScrobble-www
+    ```
+    📂 This will download the project to your local machine.
+
+2. **Install Dependencies**  
+    Run the following command to install all required dependencies:  
+    ```sh
+    npm install
+    ```
+    🔧 This ensures everything is set up for development.
+
+3. **Start the Development Server**  
+    Launch the local development server with:  
+    ```sh
+    npm run dev
+    ```
+    🚀 Your site will be available at `http://localhost:4321`.
+
+4. **Build for Production**  
+    When you're ready to deploy, build the project using:  
+    ```sh
+    npm run build
+    ```
+    📦 This generates optimized files in the `./dist/` folder.
+
+5. **Preview Your Build**  
+    Test your production build locally with:  
+    ```sh
+    npm run preview
+    ```
+    👀 Verify everything works as expected before deploying.
+
+Enjoy using **FScrobble-www**! 🎶
 
 This project uses **Astro** for building fast and modern websites. Feel free to use the project for your personal landings and products by cloning the repository:
 
