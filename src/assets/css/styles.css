@@ -340,8 +340,8 @@ video::cue {
   margin-top: -0.3em;
   width: min(100%, 40em);
 }
-
-.article p {
+.article p,
+.article li {
   text-align: left;
 }
 
@@ -381,8 +381,14 @@ video::cue {
 }
 
 .article i,
-.article em {
+.article em{
   color: var(--color-pink)
+}
+
+
+
+.article strong {
+  color: var(--color-lavender)
 }
 
 .article code {
