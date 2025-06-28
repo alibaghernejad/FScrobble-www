@@ -1,9 +1,12 @@
 # FScrobble-www: 
-The Home page for [**FScrobble**](https://github.com/alibaghernejad/FScrobble). An efficent **Music Scrobbling Service**, written in F# and .NET  
-If you are looking for detailed instructions on how to use this service, please refer to the documentation or the guides provided in the repository.  
+The Home/Landing page for [**FScrobble**](https://github.com/alibaghernejad/FScrobble). An efficent **Music Scrobbling Service**, written in F# and .NET  
+
 
 ![FScrobble-Banner](/src/assets/fscrobble-v0.0.2-banner.png)    
-You can find the source code for FScrobble on GitHub: [FScrobble Repository](https://github.com/alibaghernejad/FScrobble).
+
+If you are looking for detailed instructions on how to use this Landing Page for your projects, please refer to the documentation or the guides provided in the repository.
+but if you are looking for **FScrobble**: a Music Scrobbling service itself, 
+You can find the source code and detailed use instructions for it on GitHub: [FScrobble Repository](https://github.com/alibaghernejad/FScrobble).
 
 
 ## 🎯 Usage Instructions
