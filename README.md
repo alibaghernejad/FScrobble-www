@@ -4,9 +4,9 @@ The Home/Landing page for [**FScrobble**](https://github.com/alibaghernejad/FScr
 
 ![FScrobble-Banner](/src/assets/fscrobble-v0.0.2-banner.png)    
 
-If you are looking for detailed instructions on how to use this Landing Page for your projects, please refer to the documentation or the guides provided in the repository.
-but if you are looking for **FScrobble**: a Music Scrobbling service itself, 
-You can find the source code and detailed use instructions for it on GitHub: [FScrobble Repository](https://github.com/alibaghernejad/FScrobble).
+If you're looking for detailed instructions on how to use this landing page for your projects, please refer to the documentation or guides provided in this repository.
+
+However, if you're interested in **FScrobble**, the Music Scrobbling service itself, you can explore its source code and usage instructions on GitHub: [**FScrobble Repository**](https://github.com/alibaghernejad/FScrobble).
 
 
 ## 🎯 Usage Instructions
