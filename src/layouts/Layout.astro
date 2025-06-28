@@ -1,3 +1,8 @@
+---
+import Footer from "../components/Footer.astro";
+---
+
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -8,20 +13,9 @@
 		<title>FScrobble: a Music Scrobbling Service.</title>
 	</head>
 	<body>
+		<main class="main">
 		<slot />
+		<Footer/>
+		</main>
 	</body>
 </html>
-<!-- 
-<style>
-html,body {
-    align-items: stretch;
-    background: var(--color-background-night);
-    color: var(--color-terminal-blue);
-    display: flex;
-    flex-direction: column;
-    font-family: var(--font-family);
-    font-weight: 300;
-    line-height: var(--line-height);
-    min-height: 100vh
-}
-</style> -->
