@@ -624,7 +624,14 @@ video::cue {
 .header__command {
   align-self: center;
   transition: transform var(--transition);
-  will-change: transform
+  will-change: transform;
+  user-select: all;
+}
+
+::selection
+{
+  background-color: var(--color-mauve);
+  color: var(--color-text);  
 }
 
 .header__buttons {
