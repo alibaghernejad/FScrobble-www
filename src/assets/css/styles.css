@@ -624,8 +624,7 @@ video::cue {
 .header__command {
   align-self: center;
   transition: transform var(--transition);
-  will-change: transform;
-  user-select: all;
+  will-change: transform
 }
 
 ::selection
